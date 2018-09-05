@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BottomAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 1.17
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 1
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": -302.9
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": -301
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": -302.9
+        }
+      ]
+    }
+  },
+  "events": []
+}
